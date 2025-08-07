@@ -1,0 +1,14 @@
+{
+  "name": "com.darknaku.localnotification",
+  "version": "0.1.0",
+  "displayName": "LocalNotification",
+  "description": "DarkNaku LocalNotification Package - This package helps to use Unity's Mobile Notifications.",
+  "unity": "2022.3",
+  "author": {
+    "name": "DarkNaku",
+    "url": "https://github.com/DarkNaku"
+  },
+  "dependencies": {
+    "com.unity.mobile.notifications": "2.4.0"
+  }
+}
