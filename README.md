@@ -10,4 +10,7 @@
 
 ### 사용법
 
-1. ...
+1. 빈 GameObject를 만듭니다.
+2. LocalNotification 컴포넌트를 추가합니다.
+3. MessageDataGroup에 메세지 그룹들을 추가합니다. 메시지가 그룹 안에서 랜덤으로 선택됩니다.
+4. Schedules에 노출할 시간들을 등록합니다. (AfterDays : 이후날짜 만약 1이면 하루뒤, Hours : 지정시간, Minutes : 지정분, Seconds : 지정초)
