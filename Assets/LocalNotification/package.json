@@ -9,6 +9,6 @@
     "url": "https://github.com/DarkNaku"
   },
   "dependencies": {
-    "com.unity.mobile.notifications": "2.4.0"
+    "com.unity.mobile.notifications": "2.4.1"
   }
 }
